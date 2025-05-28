@@ -1,4 +1,4 @@
-package concurrencia;
+package sincronizado;
 
 import java.util.concurrent.Callable;
 

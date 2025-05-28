@@ -1,4 +1,4 @@
-package concurrencia;
+package sincronizado;
 
 public class MemoriaCompartida {
 

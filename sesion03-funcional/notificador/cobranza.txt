@@ -1,0 +1,30 @@
+Juan Pérez|juan.perez@gmail.com|5532147896|EMAIL
+María González|maria.gonzalez@hotmail.com||EMAIL
+Carlos López||5512345678|TELEFONO
+Ana Martínez|ana.martinez@yahoo.com|5543218765|EMAIL
+Luis Rodríguez|luis.rodriguez@outlook.com||EMAIL
+Laura Sánchez||5587654321|TELEFONO
+Pedro Ramírez|pedro.ramirez@gmail.com|5598765432|TELEFONO
+Sofía Torres|sofia.torres@hotmail.com||EMAIL
+Jorge Díaz||5576543210|TELEFONO
+Mónica Vázquez|monica.vazquez@yahoo.com|5567890123|EMAIL
+Fernando Castro|fernando.castro@outlook.com||EMAIL
+Gabriela Ruiz||5545678901|TELEFONO
+Roberto Medina|roberto.medina@gmail.com|5532109876|TELEFONO
+Patricia Herrera|patricia.herrera@hotmail.com||EMAIL
+Miguel Ángel Silva||5521098765|TELEFONO
+Alejandra Núñez|alejandra.nunez@yahoo.com|5578901234|EMAIL
+Ricardo Vargas|ricardo.vargas@outlook.com||EMAIL
+Verónica Castro||5590123456|TELEFONO
+José Luis Mora|jose.mora@gmail.com|5543210987|EMAIL
+Daniela Ortega|daniela.ortega@hotmail.com||EMAIL
+Arturo Ríos||5567894321|TELEFONO
+Lucía Mendoza|lucia.mendoza@yahoo.com|5532145678|EMAIL
+Francisco Guerrero|francisco.guerrero@outlook.com||EMAIL
+Silvia Pacheco||5587651098|TELEFONO
+Enrique Vega|enrique.vega@gmail.com|5543216543|TELEFONO
+Adriana Rojas|adriana.rojas@hotmail.com||EMAIL
+Raúl Campos||5578904321|TELEFONO
+Mariana Delgado|mariana.delgado@yahoo.com|5532187654|EMAIL
+Gerardo Tapia|gerardo.tapia@outlook.com||EMAIL
+Isabel Flores||5567891234|TELEFONO

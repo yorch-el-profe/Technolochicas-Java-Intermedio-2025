@@ -13,6 +13,10 @@ java {
 	}
 }
 
+bootRun {
+    standardInput = System.in
+}
+
 repositories {
 	mavenCentral()
 }

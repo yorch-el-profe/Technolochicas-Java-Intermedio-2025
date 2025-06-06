@@ -13,6 +13,6 @@ public class ReactivoApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) {
-		Mostrador.tomarPedidos();
+		Pizzeria.iniciar();
 	}
 }
